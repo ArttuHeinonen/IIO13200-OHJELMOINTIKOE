@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<accounts>
+  <account>
+    <name>Monty</name>
+    <password>361121921921092386625322241871530902201622361573025</password>
+  </account>
+  <account>
+    <name>Linus</name>
+    <password>4323723243152181597795221132176160103553792170118212</password>
+  </account>
+  <account>
+    <name>Richard</name>
+    <password>2111091121492432511765284215216193143106178139246121159191</password>
+  </account>
+  <account>
+    <name>Bjarne</name>
+    <password>109211228236611062242324292201211186917011124317519793</password>
+  </account>
+</accounts>

@@ -1,0 +1,4 @@
+﻿Linus   : gitgud
+Richard : GNUISBETTER
+Monty   : password
+Bjarne  : ToCOrNotToC
